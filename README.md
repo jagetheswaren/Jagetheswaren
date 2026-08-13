@@ -2,303 +2,287 @@
 
 # Jagetheswaren K
 
-### AI & Data Science Student | AI/ML Developer | Full-Stack Builder | Interactive 3D Developer
+### I build intelligent systems and interactive experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+LLMs;Developing+full-stack+systems;Creating+interactive+3D+experiences;Building+Unity+games+and+tools;UI%2FUX+%26+motion+design;Building.+Learning.+Improving." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Exploring+LLMs+%26+Generative+AI;Designing+intelligent+interfaces;Creating+interactive+3D+experiences;Building+Unity+games+%26+tools;Experimenting+with+AI+%C3%97+3D+%C3%97+UI" alt="Typing introduction" />
 
 <p>
-  <a href="https://github.com/jagetheswaren"><img src="https://img.shields.io/badge/GitHub-jagetheswaren-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/jagetheswaren-k/"><img src="https://img.shields.io/badge/LinkedIn-Jagetheswaren%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jagetheswaren@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jagetheswaren"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jagetheswaren-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jagetheswaren@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<sub>AI &rarr; Code &rarr; UI &rarr; 3D &rarr; Motion</sub>
 
 </div>
 
 ---
 
-## Profile
+```text
+AI gives systems intelligence.
+Code gives ideas structure.
+UI gives technology a human interface.
+3D gives ideas a space.
+Motion gives experiences life.
+```
 
-<table>
-  <tr>
-    <td>
-      <strong>AI & DATA SCIENCE</strong><br /><br />
-      Building intelligent systems, practical applications, and creative interactive experiences.<br /><br />
-      <code>AI</code> <code>Full Stack</code> <code>3D</code> <code>UI/UX</code> <code>Games</code>
-    </td>
-  </tr>
-</table>
+> I like building where these layers meet.
 
-I am an AI & Data Science student who enjoys turning ideas into practical technology. I explore AI/ML and Generative AI alongside full-stack and mobile applications, automation, computer vision, robotics concepts, interactive 3D, game development, and UI/UX.
+## `01 / WHO I AM`
 
-> Building intelligent systems, practical applications, and creative technology.
+I am an AI & Data Science student who enjoys turning ideas into working technology. My interests move across AI/ML, full-stack development, Generative AI, computer vision, automation, interactive 3D, game development, animation, and UI/UX. I enjoy projects where software is not only functional, but also intelligent, visual, and interactive.
 
-## Education
+**Education:** B.Tech in Artificial Intelligence & Data Science, Sri Eshwar College of Engineering. Diploma background in Computer Science & Engineering.
 
-**B.Tech - Artificial Intelligence & Data Science**<br />
-Sri Eshwar College of Engineering
+## `02 / HOW I BUILD`
 
-**Diploma - Computer Science & Engineering**
+```text
+PROBLEM
+  ↓
+IDEA
+  ↓
+PROTOTYPE
+  ↓
+SYSTEM
+  ↓
+INTERACTION
+  ↓
+EXPERIENCE
+```
 
-## Current Focus
+I usually start with a real problem, prototype quickly, connect the required technologies, then focus on making the final experience understandable and useful.
 
-| AI & Data | Software Engineering | Interactive Technology | Innovation |
-| --- | --- | --- | --- |
-| Machine Learning, Generative AI, LLM applications, RAG, AI agents, prompt engineering, computer vision, edge AI | Full-stack development, mobile applications, REST APIs, backend systems, authentication, databases, cloud deployment | Unity, 3D development, animation, game UI, UI/UX, interactive experiences | Robotics, IoT, automation, hackathons, game jams, rapid prototyping |
+## `03 / MY TECH UNIVERSE`
 
-## Featured Projects
+| Layer | What I work with |
+| --- | --- |
+| Intelligence | AI/ML, Generative AI, LLMs, NLP, Computer Vision |
+| Applications | React, React Native, Vue, TypeScript, Python |
+| Backend | Flask, FastAPI, Node.js, REST APIs |
+| Data | MySQL, PostgreSQL, MongoDB, Supabase, Firebase |
+| Interaction | UI/UX, Game UI, HUDs, responsive interfaces |
+| Spatial | Unity, Three.js, Blender, 3D environments |
+| Motion | Animation exploration, camera systems, UI motion, VFX |
+| Systems | Git, GitHub, Docker, APIs, automation |
+| Exploration | RAG, AI agents, vector databases, MLOps |
 
-### IntelliReview AI
-**Category:** AI/ML | Full Stack | Developer Tools<br />
-**AI-powered code review assistant for actionable software-quality feedback.**
+**Core tools**
 
-**Problem:** Reviewing code for security, quality, complexity, and performance issues can be slow and inconsistent.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Solution:** A full-stack platform combining static analysis, machine-learning severity prediction, NLP explanations, local-LLM summaries, and GitHub pull-request workflows.
+## `04 / THINGS I'VE BUILT`
 
-**Tech:** Python, Flask, React, Tailwind CSS, MongoDB Atlas, Scikit-learn, Hugging Face Transformers, Ollama, Bandit, Pylint, Radon, GitHub REST API, JWT, bcrypt, Docker, Vercel, Render.
+### `01` IntelliReview AI
+**AI x Developer Tools**
 
-**Highlights:**
+> What if code review could explain not only what is wrong, but why it matters?
+
+**Built with:** Python, Flask, React, MongoDB Atlas, Scikit-learn, Hugging Face Transformers, Ollama, Pylint, Bandit, Radon, GitHub REST API, JWT, bcrypt, Docker, Vercel, and Render.
+
+**What it does:**
 - Security and AST analysis
 - Code-smell, complexity, and performance checks
-- CodeBERT explanations and local-LLM review summaries
+- CodeBERT explanations and local-LLM summaries
 - GitHub repository and pull-request analysis
 - Report generation and responsive dashboard
 
-**Links:** [Repository](https://github.com/jagetheswaren/AI-Code-Review-Assistant) | [Live app](https://frontend-delta-eight-92.vercel.app) | [API](https://ai-code-review-api.onrender.com)
+[Repository](https://github.com/jagetheswaren/AI-Code-Review-Assistant) | [Live app](https://frontend-delta-eight-92.vercel.app) | [API](https://ai-code-review-api.onrender.com)
 
 ---
 
-### EventAI
-**Category:** Generative AI | Mobile | Full Stack<br />
-**AI-assisted event planning and management platform.**
+### `02` EventAI
+**Generative AI x Mobile x Product Experience**
 
-**Problem:** Event planning involves budgeting, vendors, bookings, visual planning, and coordination across disconnected workflows.
+> Turning event planning from a collection of tasks into one intelligent workflow.
 
-**Solution:** A mobile-first platform concept combining AI planning, budget estimation, vendor management, booking workflows, and AI-powered visual transformation.
+**Built with:** React Native, Expo, TypeScript, Supabase, AI APIs, and GitHub Actions.
 
-**Tech:** React Native, Expo, TypeScript, Supabase, AI APIs, GitHub Actions.
-
-**Highlights:**
-- AI event planning and budget assistance
-- Vendor marketplace and booking workflow concepts
-- Event-management and administration capabilities
+**What it explores:**
+- AI planning and budget assistance
+- Vendor and booking workflow concepts
+- Event management and administration
 - Generative image and room-transformation concepts
 
-**Links:** [Live web build](https://jagetheswaren.github.io/Online-Event-AI/)
+[Live web build](https://jagetheswaren.github.io/Online-Event-AI/)
 
 ---
 
-### AI BloodLink
-**Category:** Healthcare Technology | Web | Backend<br />
-**Intelligent emergency blood-network concept connecting patients, hospitals, blood banks, and donors.**
+### `03` AI BloodLink
+**Healthcare x Real-Time Systems x AI**
 
-**Focus:** Healthcare technology, real-time systems, web applications, backend architecture, and AI-assisted coordination.
+> Exploring how technology can connect patients, hospitals, blood banks, and donors during time-sensitive situations.
 
-**Tech:** TypeScript, Vue, Vite, Tailwind CSS, backend and database systems.
+**Built with:** TypeScript, Vue, Vite, Tailwind CSS, backend systems, and database systems.
 
-**Highlights:**
+**Project concepts:**
 - Patient, hospital, blood-bank, and donor workflows
 - Administrative interfaces
-- Real-time coordination concepts
+- Real-time coordination
 - AI-assisted matching exploration
 
 ---
 
-### AgriSentinel AI / AgriNova
-**Category:** AI | Computer Vision | Robotics | IoT<br />
-**Intelligent autonomous agricultural rover concept for data-informed farming.**
+### `04` AgriSentinel AI / AgriNova
+**AI x Robotics x Edge Intelligence**
 
-**Problem:** Farmers need localized insight into soil condition, crop stress, and field risks.
+> A rover concept designed to understand the farm instead of treating the entire field the same way.
 
-**Solution:** A modular rover concept combining AI, computer vision, edge AI, robotics, sensors, and farmer notifications.
+**Concept technologies:** Computer Vision, Edge AI, Robotics, IoT, and soil sensing.
 
-**Tech:** AI, Computer Vision, Edge AI, Robotics, IoT sensors.
-
-**Highlights:**
-- NPK, pH, EC, and soil-moisture monitoring concepts
+**Project concepts:**
+- NPK, pH, EC, and moisture monitoring
 - Crop-stress and wildlife detection
-- Precision fertilizer-application and autonomous-navigation concepts
+- Precision fertilizer application and autonomous navigation
 - Farmer notifications
 
 ---
 
-### Interactive 3D & Game Development
-**Category:** 3D | Game Development | Interactive Experiences<br />
-**Real-time game and interactive-experience experiments focused on environments, movement, and player interaction.**
+### `05` Interactive Worlds
+**3D x Game Development x Interaction**
 
-**Last Signal: Isle Zero** is an atmospheric Three.js exploration demo with movement, interaction systems, environment models, and optional audio.
+**Last Signal: Isle Zero** is an atmospheric Three.js exploration demo with movement, interaction systems, environment models, and optional audio. Alongside it, I build Unity experiments and explore game-development workflows.
 
-**Tech:** Unity, C#, Three.js, Blender, Godot.
+**Focus:** Character movement, camera systems, interactive environments, game UI, HUDs, scene composition, real-time interaction, 3D assets, and visual feedback.
 
-**Highlights:**
-- 2D/3D game development and interactive environments
-- Character movement, camera systems, and real-time interaction
-- Game UI, HUD systems, scene composition, and visual feedback
-- Environment-model integration and optional audio workflows
-
-## Technology Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google%20Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Used:** Python, NumPy, Pandas, Scikit-learn, Hugging Face Transformers, Ollama, OpenAI APIs, Google Gemini APIs, NLP, LLM-assisted developer workflows, and static analysis.
-
-**Currently exploring:** RAG, AI Agents, embeddings, vector databases, LangChain, FAISS, Chroma, Pinecone, advanced computer vision, prompt engineering, and MLOps.
-
-### Web, Mobile, Backend, and Databases
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Experience:** Responsive web and mobile UI, REST APIs, GitHub REST API integration, webhooks, JWT and bcrypt authentication, and relational and NoSQL data workflows.
-
-### Cloud, Automation, and Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-**Used:** Git, GitHub, GitHub Actions, VS Code, OpenCode, npm, Python virtual environments, Docker, Vercel, Render, Linux, and Windows.
-
-**Exploring automation:** n8n, API integrations, webhooks, workflow automation, AI automation, and event-driven workflows.
-
-## UI / UX & Interaction
-
-<p>
-  <img src="https://img.shields.io/badge/UI%20Design-121212?style=flat-square" alt="UI Design" />
-  <img src="https://img.shields.io/badge/UX%20Design-121212?style=flat-square" alt="UX Design" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-121212?style=flat-square" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/Mobile%20UI-121212?style=flat-square" alt="Mobile UI" />
-  <img src="https://img.shields.io/badge/Web%20UI-121212?style=flat-square" alt="Web UI" />
-  <img src="https://img.shields.io/badge/Game%20UI-121212?style=flat-square" alt="Game UI" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/HUD%20Design-121212?style=flat-square" alt="HUD Design" />
-  <img src="https://img.shields.io/badge/Dashboard%20Design-121212?style=flat-square" alt="Dashboard Design" />
-  <img src="https://img.shields.io/badge/Navigation-121212?style=flat-square" alt="Navigation" />
-  <img src="https://img.shields.io/badge/User%20Flows-121212?style=flat-square" alt="User Flows" />
-  <img src="https://img.shields.io/badge/Prototyping-121212?style=flat-square" alt="Prototyping" />
-  <img src="https://img.shields.io/badge/Interactive%20Components-121212?style=flat-square" alt="Interactive Components" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Micro--interactions-121212?style=flat-square" alt="Micro-interactions" />
-  <img src="https://img.shields.io/badge/Motion%20UI-121212?style=flat-square" alt="Motion UI" />
-  <img src="https://img.shields.io/badge/Design%20Systems-121212?style=flat-square" alt="Design Systems" />
-</p>
-
-I design interfaces for AI applications, mobile and web experiences, administrative dashboards, developer tools, and Unity games, with emphasis on clear navigation and responsive interaction.
-
-## 3D, Game Development, and Animation
-
-**Used:**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-
-Unity and C# game development; Blender asset work; Godot exploration; Three.js interactive 3D work; 2D/3D environments; prefab-based development; character movement; camera systems; game UI; HUDs; menu systems; and real-time interaction.
-
-**Animation & Motion - exploring:** Character animation, animation clips, Animator Controllers, animation state machines, Blend Trees, Timeline, Cinemachine, rigging, camera animation, UI animation, motion design, particle animation, and VFX.
-
-**3D - exploring:** Unity 6 workflows, Unreal Engine, 3D modeling and asset creation, materials and textures, lighting, physics, particle systems, VFX, and real-time rendering.
-
-## Interactive Design Pipeline
+## `05 / WHERE I BUILD`
 
 ```text
-IDEA
-  ↓
-UX FLOW
-  ↓
-UI DESIGN
-  ↓
+                    ┌── AI / ML
+                    │
+                    ├── Full Stack
+                    │
+IDEA ──→ PROTOTYPE ─┼── Mobile
+                    │
+                    ├── Robotics
+                    │
+                    ├── 3D
+                    │
+                    └── Games
+```
+
+## `06 / DESIGNING THE EXPERIENCE`
+
+```text
+FUNCTION
+   +
+CLARITY
+   +
+MOTION
+   +
+FEEDBACK
+   =
+EXPERIENCE
+```
+
+I am interested in interfaces that do more than display information. I want UI to communicate state, guide users, respond to interaction, and make complex technology easier to understand.
+
+**Design interests:** UI design, UX design, responsive UI, mobile UI, web UI, game UI, HUDs, dashboards, navigation, user flows, prototyping, micro-interactions, and motion UI.
+
+## `07 / MAKING SOFTWARE FEEL ALIVE`
+
+```text
+CODE
+ ↓
+LOGIC
+ ↓
 INTERACTION
-  ↓
-ANIMATION
-  ↓
-3D / REAL-TIME
-  ↓
-AI-POWERED EXPERIENCE
+ ↓
+MOTION
+ ↓
+3D
+ ↓
+EXPERIENCE
 ```
 
-## AI x UI/UX x 3D
+**Used:** Unity, C#, Three.js, Blender, and Godot; 3D environments, character movement, camera systems, game UI, HUDs, real-time interaction, and 3D asset work.
 
-I am interested in combining artificial intelligence, interactive interfaces, motion design, 3D experiences, and real-time systems. This direction connects AI dashboards and assistants with interactive visualization, game and simulation interfaces, and thoughtful user experiences.
+**Exploring:** Animation Clips, Animator Controllers, state machines, Blend Trees, Timeline, Cinemachine, rigging, camera animation, UI animation, motion design, particles, VFX, Unity 6, Unreal Engine, and advanced 3D workflows.
 
-| AI | UI/UX | Animation | 3D | Games |
-| --- | --- | --- | --- | --- |
-| Intelligent systems | Human interaction | Motion and feedback | Spatial experiences | Interactive worlds |
-
-## Learning Roadmap
+# `08 / THE DIRECTION I'M EXPLORING`
 
 ```text
-Python
-  ↓
-Data Science
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Generative AI
-  ↓
-LLMs
-  ↓
-RAG
-  ↓
-AI Agents
-  ↓
-MLOps
-  ↓
-Production AI
+              ARTIFICIAL
+             INTELLIGENCE
+                  │
+                  ▼
+       ┌─────────────────────┐
+       │   INTELLIGENT UI    │
+       └─────────────────────┘
+                  │
+                  ▼
+       ┌─────────────────────┐
+       │   MOTION & FEEDBACK │
+       └─────────────────────┘
+                  │
+                  ▼
+       ┌─────────────────────┐
+       │   3D / REAL-TIME    │
+       └─────────────────────┘
+                  │
+                  ▼
+       ┌─────────────────────┐
+       │   HUMAN EXPERIENCE  │
+       └─────────────────────┘
 ```
 
-**Parallel skills:** Cloud | Docker | Backend Architecture | System Design | UI/UX | 3D | Animation | Open Source
+This is the direction I want to explore deeper: systems that are intelligent underneath, intuitive on the surface, and interactive in how people experience them.
 
-## Building in Public
+## `09 / CURRENT EXPERIMENTS`
 
-I use GitHub to document and share practical work across AI, full-stack software, and interactive technology. The analytics below reflect my public GitHub activity.
+| Intelligence | Engineering | Interaction | Spatial |
+| --- | --- | --- | --- |
+| RAG, LLMs, AI agents, embeddings, vector databases, computer vision, prompt engineering | Docker, backend architecture, system design, MLOps, APIs, automation | UI/UX, motion UI, game UI, interactive systems | 3D, Unity 6, animation, VFX, Three.js, Unreal Engine |
 
-## GitHub Analytics
+These are active learning and exploration areas, not claims of professional expertise.
+
+## `10 / THE NEXT LEVEL`
+
+```text
+DATA
+ ↓
+ML
+ ↓
+DEEP LEARNING
+ ↓
+GENERATIVE AI
+ ↓
+LLMs
+ ↓
+RAG
+ ↓
+AGENTS
+ ↓
+MLOps
+ ↓
+PRODUCTION AI
+```
+
+**Parallel track**
+
+```text
+BACKEND + CLOUD + SYSTEM DESIGN
+             +
+UI/UX + 3D + ANIMATION
+```
+
+## `11 / BUILDING IN PUBLIC`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jagetheswaren&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Jagetheswaren's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagetheswaren&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Jagetheswaren's top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagetheswaren&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Jagetheswaren's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagetheswaren&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Jagetheswaren's top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jagetheswaren&theme=radical&hide_border=true" alt="Jagetheswaren's contribution streak" />
@@ -307,21 +291,21 @@ I use GitHub to document and share practical work across AI, full-stack software
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagetheswaren&theme=react-dark&hide_border=true" alt="Jagetheswaren's contribution activity graph" />
 </p>
 
-## Let's Build Something
+# `12 / LET'S BUILD`
+
+> Have an idea that combines AI, software, 3D, or interactive technology?
 
 <div align="center">
 
-Interested in AI, software, interactive 3D, or creative technology?
+<a href="https://github.com/jagetheswaren"><img src="https://img.shields.io/badge/GitHub-jagetheswaren-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jagetheswaren-k/"><img src="https://img.shields.io/badge/LinkedIn-Jagetheswaren%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jagetheswaren@gmail.com"><img src="https://img.shields.io/badge/Email-jagetheswaren%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<p>
-  <a href="https://github.com/jagetheswaren"><img src="https://img.shields.io/badge/GitHub-jagetheswaren-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/jagetheswaren-k/"><img src="https://img.shields.io/badge/LinkedIn-Jagetheswaren%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jagetheswaren@gmail.com"><img src="https://img.shields.io/badge/Email-jagetheswaren%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br /><br />
 
-> Building intelligent systems, practical applications, and creative technology.
-
-<sub>AI &rarr; Build &rarr; Animate &rarr; Deploy &rarr; Repeat</sub><br /><br />
+```text
+AI → BUILD → INTERACT → LEARN → REPEAT
+```
 
 <img src="https://komarev.com/ghpvc/?username=jagetheswaren&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
 
